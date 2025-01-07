@@ -1,3 +1,4 @@
 # ProjectWork
 try to explore different type of project
-Author - Rahul Kumar
+<br/>
+<h3>Author - Rahul Kumar</h3>
